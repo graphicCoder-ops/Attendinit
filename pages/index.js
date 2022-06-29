@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className='w-auto h-screen bg-blue-400 text-black flex justify-center items-center'><div className=' w-1/4 sm rounded-lg h-2/3 bg-white flex-initial flex items-center flex-col  justify-evenly'>
+    <div className='w-auto h-screen bg-blue-400 text-black flex justify-center items-center'><div className=' w-full sm:w-1/4 rounded-lg h-2/3 bg-white flex-initial flex items-center flex-col  justify-evenly'>
 <div className='flex-start text-black-400 font-popins text-6xl '>Login</div>
  <form className='flex flex-col items-center gap-5' >
    
