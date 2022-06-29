@@ -11,7 +11,7 @@ export default function Home() {
  <input className='flex-initial input-md border-2 border-zinc-500 rounded-md input w-full max-w-xs'datatheme="light" type="text" placeholder="Enter Your Name" ></input>
  <input className='flex-initial input-md border-2  border-zinc-500 rounded-md input w-full max-w-xs 'type="text" placeholder="Enter Your Password" ></input>
 
-<button className='my-8 flex-inital btn-md flex-1 bg-gradient-to-r from-emerald-600 to-green-500 focus:bg-gradient-to-l text-white rounded-md'>Click me!</button>
+<button className='my-8 flex-inital btn btn-accent'>Click me!</button>
  </form>
     
     </div></div>
